@@ -7,7 +7,7 @@ step0:
 step1:
 
 ```console
-$ nix run nixpkgs#git clone https://github.com/Ruixi-rebirth/flakes.git --extra-experimental-features nix-command --extra-experimental-features flakes
+$ nix run nixpkgs#git clone https://github.com/yszpat/flakes.git --extra-experimental-features nix-command --extra-experimental-features flakes
 ```
 
 step2:
